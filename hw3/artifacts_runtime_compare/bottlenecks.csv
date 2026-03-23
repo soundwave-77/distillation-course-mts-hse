@@ -1,0 +1,4 @@
+bottleneck,why_it_matters,expected_effect_of_strategy
+full precision weights,Базовая версия использует полный state dict и поэтому требует больше памяти и дискового пространства.,GGUF должен уменьшить размер модели и снизить memory pressure.
+general-purpose generation runtime,Базовый runtime не специализирован под локальный GGUF inference на Apple Silicon.,llama.cpp должен дать более дешёвый inference для локального сценария.
+autoregressive decoding,Даже короткий structured output требует токен-за-токеном генерации.,Ограничение output JSON и отключение reasoning уменьшают лишние токены.

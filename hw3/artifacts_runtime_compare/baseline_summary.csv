@@ -1,0 +1,9 @@
+metric,value
+model_name,Qwen/Qwen3-1.7B
+architecture,Qwen3ForCausalLM
+hidden_size,2048
+num_hidden_layers,28
+num_attention_heads,16
+vocab_size,151936
+max_input_tokens,4096
+max_new_tokens,256

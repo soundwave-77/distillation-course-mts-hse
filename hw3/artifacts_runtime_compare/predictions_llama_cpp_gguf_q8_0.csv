@@ -1,0 +1,301 @@
+queue,raw_output,predicted_queue,latency_s,prompt_tokens,generated_tokens
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.2818322499988426,148,6
+Technical Support,"{""queue"":""General Inquiry""}",General Inquiry,0.18843800000104238,129,6
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.215927000001102,182,6
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.24354841700187535,217,6
+Technical Support,"{""queue"":""Technical Support""}",Technical Support,0.22871758300243528,216,6
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.26916849999906844,154,9
+Technical Support,"{""queue"":""Technical Support""}",Technical Support,0.21313008299694047,165,6
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.21689604200219037,189,6
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.23652383300213842,225,6
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.23511524999776157,213,6
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2499009160019341,126,9
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.28112958400015486,171,9
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2963374589999148,213,9
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2846587499989255,179,9
+Technical Support,"{""queue"":""General Inquiry""}",General Inquiry,0.22151733300052,184,6
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.25115712499973597,212,6
+Technical Support,"{""queue"":""Technical Support""}",Technical Support,0.22346575000119628,152,6
+Technical Support,"{""queue"":""IT Support""}",IT Support,0.21842437500163214,133,6
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.30985587499890244,170,9
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.36541425000177696,249,9
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.34634462499889196,215,9
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29384487499919487,161,9
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.2227736669992737,135,6
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29196124999725726,158,9
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2952597910007171,143,9
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.25480691700067837,212,6
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.2608373330003815,200,6
+Technical Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2904012090002652,141,9
+Technical Support,"{""queue"":""Technical Support""}",Technical Support,0.2357691249999334,180,6
+Technical Support,"{""queue"":""Product Support""}",Product Support,0.25281920799898217,214,6
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.28759487500065006,161,9
+Product Support,"{""queue"":""Product Support""}",Product Support,0.3203824580014043,307,6
+Product Support,"{""queue"":""Technical Support""}",Technical Support,0.2403113750006014,179,6
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3131917089995113,164,9
+Product Support,"{""queue"":""Product Support""}",Product Support,0.22458512500088545,161,6
+Product Support,"{""queue"":""Product Support""}",Product Support,0.24789916700319736,217,6
+Product Support,"{""queue"":""Product Support""}",Product Support,0.2615265829990676,196,6
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29046712499985006,131,9
+Product Support,"{""queue"":""Product Support""}",Product Support,0.26215695799692185,204,6
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29600804099754896,137,9
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.32303316699835705,213,9
+Product Support,"{""queue"":""Product Support""}",Product Support,0.24030287500136183,188,6
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.32670908300133306,202,9
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3549122910008009,258,9
+Product Support,"{""queue"":""Product Support""}",Product Support,0.22134754199942108,141,6
+Product Support,"{""queue"":""IT Support""}",IT Support,0.23287775000062538,194,6
+Product Support,"{""queue"":""Product Support""}",Product Support,0.21455191600034595,143,6
+Product Support,"{""queue"":""Product Support""}",Product Support,0.22252004199981457,155,6
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3160318330010341,163,9
+Product Support,"{""queue"":""Product Support""}",Product Support,0.25246804199923645,203,6
+Product Support,"{""queue"":""Product Support""}",Product Support,0.24918529199931072,206,6
+Product Support,"{""queue"":""Product Support""}",Product Support,0.23252708300060476,163,6
+Product Support,"{""queue"":""Technical Support""}",Technical Support,0.27154991700081155,234,6
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.27608833300109836,130,9
+Product Support,"{""queue"":""Product Support""}",Product Support,0.25677508400258375,209,6
+Product Support,"{""queue"":""Technical Support""}",Technical Support,0.2295356670001638,180,6
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3368857920031587,217,9
+Product Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3313140840000415,200,9
+Product Support,"{""queue"":""Product Support""}",Product Support,0.25429595799869276,198,6
+Product Support,"{""queue"":""General Inquiry""}",General Inquiry,0.22892058299839846,165,6
+Customer Service,"{""queue"":""Sales and Pre-Sales""}",Sales and Pre-Sales,0.29464208299759775,141,9
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.2413992909969238,188,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.24781495800198172,199,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.2356160000017553,165,6
+Customer Service,"{""queue"":""Customer Service""}",Customer Service,0.22938979199898313,190,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.2650541670009261,219,6
+Customer Service,"{""queue"":""General Inquiry""}",General Inquiry,0.20440891600082978,122,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.2139900000001944,135,6
+Customer Service,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.31255050000254414,172,9
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.21512270899984287,131,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.26405595899996115,206,6
+Customer Service,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3133787079968897,173,9
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.25801845800015144,212,6
+Customer Service,"{""queue"":""Technical Support""}",Technical Support,0.2578762499979348,200,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.2068920839992643,123,6
+Customer Service,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3352053340022394,221,9
+Customer Service,"{""queue"":""Technical Support""}",Technical Support,0.2802615410000726,258,6
+Customer Service,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.31527791699772933,163,9
+Customer Service,"{""queue"":""Technical Support""}",Technical Support,0.2697374170020339,200,6
+Customer Service,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2969995839994226,154,9
+Customer Service,"{""queue"":""Technical Support""}",Technical Support,0.25594141600231524,216,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.2380284999999276,172,6
+Customer Service,"{""queue"":""Technical Support""}",Technical Support,0.24015387499821372,188,6
+Customer Service,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3345247919969552,216,9
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.2741929590010841,244,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.2629589579992171,203,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.278333707999991,229,6
+Customer Service,"{""queue"":""Product Support""}",Product Support,0.27133587500065914,207,6
+Customer Service,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.30476320900197607,152,9
+Customer Service,"{""queue"":""Technical Support""}",Technical Support,0.2723417920024076,208,6
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.31021879200125113,138,9
+IT Support,"{""queue"":""Technical Support""}",Technical Support,0.21415720799996052,135,6
+IT Support,"{""queue"":""Product Support""}",Product Support,0.2488567919972411,214,6
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2853979169995,149,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2966332079995482,148,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3103615840009297,173,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.32352645799983293,222,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.296202749999793,155,9
+IT Support,"{""queue"":""Technical Support""}",Technical Support,0.23983841700101038,187,6
+IT Support,"{""queue"":""Product Support""}",Product Support,0.25554987500072457,217,6
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2919291250000242,155,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3337475410007755,219,9
+IT Support,"{""queue"":""Product Support""}",Product Support,0.24092912500054808,180,6
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3129810409991478,191,9
+IT Support,"{""queue"":""General Inquiry""}",General Inquiry,0.1973111669976788,120,6
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3427129999981844,205,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.30909137499838835,176,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3004922920008539,160,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2868895840001642,142,9
+IT Support,"{""queue"":""Technical Support""}",Technical Support,0.2426742089992331,179,6
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.30972599999950035,185,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3465387500000361,232,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.30831899999975576,176,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29757433399936417,159,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.31228995799756376,177,9
+IT Support,"{""queue"":""General Inquiry""}",General Inquiry,0.20262616600302863,126,6
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3101743750012247,176,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29069095800150535,145,9
+IT Support,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3436917919971165,202,9
+IT Support,"{""queue"":""Product Support""}",Product Support,0.2087277919999906,128,6
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.25148225000157254,207,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.2647966250005993,185,7
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.22358608300055494,155,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.22830687500027125,126,7
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.2879368339999928,208,7
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.23223279200101388,152,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.2991282080001838,223,7
+Billing and Payments,"{""queue"":""Customer Service""}",Customer Service,0.2660790000009001,217,6
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.27619295900149154,195,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.32440241600124864,243,7
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.22228554200046347,150,6
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.26315366700146114,221,6
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.31140762499853736,266,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.2689997079978639,166,7
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.24415145899911295,145,7
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.25989304200265906,165,7
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.2688864170013403,191,7
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.2956658749972121,265,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.26281083300273167,179,7
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.2661188330021105,167,7
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.2591017499980808,211,6
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.27234479099934106,244,6
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.23422883300008834,181,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.26587991699852864,194,7
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.25710724999953527,202,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.26836166700013564,173,7
+Billing and Payments,"{""queue"":""Product Support""}",Product Support,0.2529613749975397,213,6
+Billing and Payments,"{""queue"":""Billing and Payments""}",Billing and Payments,0.26412887499827775,192,7
+Billing and Payments,"{""queue"":""General Inquiry""}",General Inquiry,0.2411111660003371,170,6
+Billing and Payments,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.34885112500342075,248,9
+Returns and Exchanges,"{""queue"":""General Inquiry""}",General Inquiry,0.2411111669971433,191,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.2457054579972464,192,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.25693358299758984,208,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.2714967499996419,256,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.25953450000088196,210,6
+Returns and Exchanges,"{""queue"":""General Inquiry""}",General Inquiry,0.24073095899802865,163,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.2317086670009303,178,6
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3534843749985157,252,9
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.21900545899916324,137,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.23362604199792258,192,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.25830066700291354,205,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.211529584001255,135,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.2229677499999525,153,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.24206816700097988,167,6
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.33768691700242925,223,9
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2960487500022282,162,9
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.2421239159994002,171,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.2437801669984765,215,6
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3147818340003141,186,9
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.25777937499879044,199,6
+Returns and Exchanges,"{""queue"":""IT Support""}",IT Support,0.2407156670014956,193,6
+Returns and Exchanges,"{""queue"":""Product Support""}",Product Support,0.23690895799882128,183,6
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.28850662499826285,134,9
+Returns and Exchanges,"{""queue"":""General Inquiry""}",General Inquiry,0.21941050000168616,143,6
+Returns and Exchanges,"{""queue"":""Technical Support""}",Technical Support,0.2511598329983826,197,6
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3235261250010808,196,9
+Returns and Exchanges,"{""queue"":""Customer Service""}",Customer Service,0.20524933299748227,118,6
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3092157920000318,175,9
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3456171670004551,227,9
+Returns and Exchanges,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3216800410009455,205,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2769127079991449,117,9
+Service Outages and Maintenance,"{""queue"":""Product Support""}",Product Support,0.2578820419985277,211,6
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.31253195899989805,171,9
+Service Outages and Maintenance,"{""queue"":""Product Support""}",Product Support,0.2509484590009379,209,6
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29148745800193865,133,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.327697332999378,219,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2925209580025694,158,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3043424999996205,137,9
+Service Outages and Maintenance,"{""queue"":""General Inquiry""}",General Inquiry,0.2176240000007965,154,6
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2911961669997254,140,9
+Service Outages and Maintenance,"{""queue"":""Product Support""}",Product Support,0.2578552499981015,202,6
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.27623216599749867,125,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.27565929199772654,125,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3389275000008638,237,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.27041066600213526,124,9
+Service Outages and Maintenance,"{""queue"":""General Inquiry""}",General Inquiry,0.2501183329986816,211,6
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3435386669989384,228,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3110813750026864,193,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.27725174999795854,130,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.28206245899855276,130,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3144785000004049,176,9
+Service Outages and Maintenance,"{""queue"":""Product Support""}",Product Support,0.2516817499999888,197,6
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29020812500311877,158,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3489184159989236,227,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3195323330000974,194,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.32096745800299686,171,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2964719169976888,140,9
+Service Outages and Maintenance,"{""queue"":""Customer Service""}",Customer Service,0.24950824999905308,200,6
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.31340274999820394,193,9
+Service Outages and Maintenance,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2753437909996137,130,9
+Sales and Pre-Sales,"{""queue"":""IT Support""}",IT Support,0.22808141600035015,160,6
+Sales and Pre-Sales,"{""queue"":""General Inquiry""}",General Inquiry,0.19629641700157663,126,6
+Sales and Pre-Sales,"{""queue"":""General Inquiry""}",General Inquiry,0.198814167000819,122,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.23235945800115587,171,6
+Sales and Pre-Sales,"{""queue"":""General Inquiry""}",General Inquiry,0.19193416699999943,128,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.20810316600181977,142,6
+Sales and Pre-Sales,"{""queue"":""Sales and Pre-Sales""}",Sales and Pre-Sales,0.28422691599917016,153,9
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.24572375000207103,202,6
+Sales and Pre-Sales,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.30748358299752,175,9
+Sales and Pre-Sales,"{""queue"":""General Inquiry""}",General Inquiry,0.21466845800023293,152,6
+Sales and Pre-Sales,"{""queue"":""General Inquiry""}",General Inquiry,0.23347579200344626,160,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.22693074999915552,160,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.29535000000032596,277,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.25432145899685565,199,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.25595954100208473,222,6
+Sales and Pre-Sales,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.330792916000064,199,9
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.2182559590000892,141,6
+Sales and Pre-Sales,"{""queue"":""Customer Service""}",Customer Service,0.2537398749991553,201,6
+Sales and Pre-Sales,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3093249170015042,174,9
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.25064812500204425,198,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.2611056669993559,209,6
+Sales and Pre-Sales,"{""queue"":""General Inquiry""}",General Inquiry,0.1952757910003129,125,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.22304649999932735,180,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.24511520800297149,203,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.21326858300017193,150,6
+Sales and Pre-Sales,"{""queue"":""General Inquiry""}",General Inquiry,0.19828070899893646,120,6
+Sales and Pre-Sales,"{""queue"":""General Inquiry""}",General Inquiry,0.229191708000144,166,6
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.2485662079998292,218,6
+Sales and Pre-Sales,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2920596250005474,154,9
+Sales and Pre-Sales,"{""queue"":""Product Support""}",Product Support,0.23239608299991232,183,6
+Human Resources,"{""queue"":""General Inquiry""}",General Inquiry,0.3012261670010048,313,6
+Human Resources,"{""queue"":""Product Support""}",Product Support,0.2546284169984574,215,6
+Human Resources,"{""queue"":""General Inquiry""}",General Inquiry,0.21839600000021164,145,6
+Human Resources,"{""queue"":""Customer Service""}",Customer Service,0.256294999999227,205,6
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.28485791699858964,133,9
+Human Resources,"{""queue"":""Technical Support""}",Technical Support,0.22115591599867912,153,6
+Human Resources,"{""queue"":""General Inquiry""}",General Inquiry,0.19341420799901243,121,6
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.254993458998797,119,9
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.278491542001575,148,9
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2974347920026048,152,9
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3073498750018189,159,9
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3180182079995575,192,9
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.31746816700251657,133,9
+Human Resources,"{""queue"":""Customer Service""}",Customer Service,0.24764691699965624,203,6
+Human Resources,"{""queue"":""Product Support""}",Product Support,0.24355479099904187,213,6
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2931475830009731,151,9
+Human Resources,"{""queue"":""IT Support""}",IT Support,0.2917765829988639,237,6
+Human Resources,"{""queue"":""Product Support""}",Product Support,0.2817047909993562,249,6
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29739962500025285,159,9
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3009867500004475,155,9
+Human Resources,"{""queue"":""Technical Support""}",Technical Support,0.2436498749993916,162,6
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3280123750009807,166,9
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.31283491700014565,158,9
+Human Resources,"{""queue"":""Technical Support""}",Technical Support,0.23329904199999874,165,6
+Human Resources,"{""queue"":""Product Support""}",Product Support,0.24637375000020256,203,6
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3435032080014935,203,9
+Human Resources,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.2889091249999183,148,9
+Human Resources,"{""queue"":""Product Support""}",Product Support,0.23895083399838768,184,6
+Human Resources,"{""queue"":""Technical Support""}",Technical Support,0.22941420799907064,134,6
+Human Resources,"{""queue"":""General Inquiry""}",General Inquiry,0.247165374999895,187,6
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3441091670028982,211,9
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.29171729199879337,157,9
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.26075987500007614,211,6
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3052696249978908,192,9
+General Inquiry,"{""queue"":""Customer Service""}",Customer Service,0.25704391700128326,204,6
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3275599160006095,203,9
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.24957391700081644,199,6
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3020563749996654,163,9
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.19485387500026263,129,6
+General Inquiry,"{""queue"":""General Inquiry""}",General Inquiry,0.19821404100002837,122,6
+General Inquiry,"{""queue"":""Technical Support""}",Technical Support,0.25744720800139476,206,6
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3236336250010936,204,9
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.25131462499848567,199,6
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.2504942919986206,215,6
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.24795441599781043,211,6
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.22600237499864306,180,6
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.33213558299758006,202,9
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.42112687500048196,337,9
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.3501834589987993,229,9
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.2578316669969354,202,6
+General Inquiry,"{""queue"":""IT Support""}",IT Support,0.2629279590000806,215,6
+General Inquiry,"{""queue"":""IT Support""}",IT Support,0.250487167002575,205,6
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.21843020800224622,132,6
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.2635826250007085,227,6
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.2398596670027473,215,6
+General Inquiry,"{""queue"":""General Inquiry""}",General Inquiry,0.21279024999967078,142,6
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.2442972919998283,195,6
+General Inquiry,"{""queue"":""Service Outages and Maintenance""}",Service Outages and Maintenance,0.27624624999953085,161,9
+General Inquiry,"{""queue"":""Product Support""}",Product Support,0.20461070899909828,132,6
+General Inquiry,"{""queue"":""General Inquiry""}",General Inquiry,0.24483520799913094,221,6
